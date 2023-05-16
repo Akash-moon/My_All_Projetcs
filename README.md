@@ -17,7 +17,7 @@
 * *It is an application of machine learning algorithms that aims to forecast the future price of stocks traded on the stock market.*
 * *Technology Used: seaborn, matplotlib, sklearn.*
 * *Build Model in Random Forest | DecisionTree | AdaBoost | LightGBM | XGBoost.*
-* *Link : [Stock Price Prediction](https://github.com/Akash-moon/Tourism-Website-)*
+* *Link : [Stock Price Prediction](https://github.com/Akash-moon/Stock_price_prediction)*
 
 ## 4) My PortFolio 
 * *I created my portfolio using html css and js , its consists of my skills ,my contact, experiences or my projects .*
